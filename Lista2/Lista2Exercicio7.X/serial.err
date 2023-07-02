@@ -1,0 +1,8 @@
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 249 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 249 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 249 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 249 : location .tmpdata specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 276 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 276 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 276 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] C:\Users\parao\MPLABXProjects\eMBARC202301\Lista2Exercicio7.X\FreeRTOS\serial\serial.c 276 : location .tmpdata specified in the interrupt save list is redundant
